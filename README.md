@@ -6,12 +6,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=3E8E7E&center=true&vCenter=true&width=650&lines=Holberton+School+Student;Systems+Programming+Explorer;Design+%2B+Audio+Engineering+Background;Building+Structured+Creativity" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=58A6FF&center=true&vCenter=true&width=600&lines=Creative+Technologist;Bridging+Code+%2B+Design+%2B+Sound;Systems+Programming+Explorer" />
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
 Creative technologist evolving into systems programming.
 
@@ -31,7 +31,7 @@ structure, precision, iteration, and systems thinking.
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 - C programming
 - Algorithms & Data Structures
@@ -41,7 +41,7 @@ structure, precision, iteration, and systems thinking.
 
 ---
 
-## 🛠 Tech & Creative Stack
+## Tech & Creative Stack
 
 ### 💻 Programming & Systems
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -63,7 +63,7 @@ structure, precision, iteration, and systems thinking.
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.zcy.dev/api?username=Rwanbt&show_icons=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
@@ -71,7 +71,7 @@ structure, precision, iteration, and systems thinking.
 
 ---
 
-## 🧩 What Makes Me Different
+## What Makes Me Different
 
 - Hybrid creative + technical background  
 - Strong visual & structural thinking  
@@ -92,12 +92,7 @@ and evolve into a creative software engineer building meaningful digital tools a
 
 ---
 
-## 📫 Contact
-
-📍 France  
-📧 barat.erwan@gmail.com  
-
-## 📫 Contact
+## Contact
 
 📍 France  
 📧 barat.erwan@gmail.com  
