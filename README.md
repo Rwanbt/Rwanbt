@@ -66,7 +66,7 @@ structure, precision, iteration, and systems thinking.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rwanbt&layout=compact&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.zcy.dev/api?username=Rwanbt&show_icons=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
 </p>
 
 ---
