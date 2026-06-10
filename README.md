@@ -14,7 +14,6 @@ Développement fullstack orienté produit, avec une approche centrée sur l’UX
 Parcours construit autour du design et de la pensée produit, appliqués à la création et à la transformation d’idées en systèmes concrets.
 Expérimentation sur des systèmes physiques et numériques, puis transition vers le développement logiciel et l’exploration des systèmes d’IA agentiques.
 
----
 
 # Tech stack
 
@@ -36,7 +35,6 @@ Expérimentation sur des systèmes physiques et numériques, puis transition ver
 ![Reaper](https://img.shields.io/badge/Reaper-3A3A3A?style=for-the-badge)
 ![Cubase](https://img.shields.io/badge/Cubase-1A1A1A?style=for-the-badge)
 
----
 
 # Statistics
 <p align="center">
