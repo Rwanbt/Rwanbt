@@ -1,43 +1,18 @@
-<h1 align="center">Erwan Barat</h1>
-
-<p align="center">
-  Design Technologist • Fullstack • IA Agentique
-</p>
-
-<p align="center">
-  Du concept au produit logiciel
-</p>
-
----
+# Hello World!
 
 ## À propos
 
 Design technologist orienté conception de produits numériques.
 
-Je travaille sur la transformation d’idées en systèmes concrets : passer d’un concept à un prototype fonctionnel, puis à un produit testable et évolutif.
-
-Mon approche combine design, développement et logique produit, avec une forte orientation vers la construction et l’expérimentation.
+Je travaille sur la transformation d’idées en systèmes concrets : passer d’un concept à un prototype fonctionnel, puis à un produit testable et évolutif. Mon approche combine design, développement et logique produit, avec une forte orientation vers la construction et l’expérimentation.
 
 Actuellement en formation en **programmation système et fondamentaux de l’informatique à Holberton School**.
 
----
+> Transformer des idées en prototypes concrets, puis en produits testables.
 
-## Focus actuel
-
-- Développement fullstack  
-- Systèmes d’IA agentiques  
-- Prototypage rapide d’applications  
-- UX/UI et design fonctionnel  
-- Intégration et itération produit  
-
----
-
-## Parcours
-
-- 🎨 Approche design et pensée produit appliquée à la création  
-- 🧪 Expérimentation et prototypage de systèmes physiques et numériques  
-- 💻 Transition vers le développement logiciel  
-- 🤖 Exploration du fullstack et des systèmes d’IA agentiques  
+Développement fullstack orienté produit, avec une approche centrée sur l’UX/UI fonctionnelle, le prototypage rapide d’applications et l’itération continue.
+Parcours construit autour du design et de la pensée produit, appliqués à la création et à la transformation d’idées en systèmes concrets.
+Expérimentation sur des systèmes physiques et numériques, puis transition vers le développement logiciel et l’exploration des systèmes d’IA agentiques.
 
 ---
 
@@ -63,20 +38,8 @@ Actuellement en formation en **programmation système et fondamentaux de l’inf
 
 ---
 
-## Philosophie
-
-> Transformer des idées en prototypes concrets, puis en produits testables.
-
----
-
-## Contact
-
-📍 France  
-📧 barat.erwan@gmail.com
-
----
-
-## GitHub Activity 
+## Statistics
 <p align="center"> 
   <img src="https://github-readme-stats.zcy.dev/api?username=Rwanbt&show_icons=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" /> 
+  <img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=Rwanbt&layout=compact&hide_border=true&bg_color=00000000" alt="Top Languages" />
 </p>
