@@ -1,4 +1,9 @@
-<h1 align="center">Hello World !</h1>  
+<p align="center">
+  <img 
+    src="https://github.com/Rwanbt/Rwanbt/blob/main/assets%20/banner_github_erwan.png?raw=true" 
+    width="100%" 
+  />
+</p>
 
 # À propos
 
