@@ -1,6 +1,4 @@
-<h1 align="center">Hello World !</h1>  
-
-# À propos
+# Hello World  - About Me
 
 Design technologist orienté conception de produits numériques.
 
