@@ -1,98 +1,82 @@
 <h1 align="center">Erwan Barat</h1>
 
 <p align="center">
-  Creative Technologist <br>
-  Bridging Code, Design & Sound
+  Design Technologist • Fullstack • IA Agentique
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=58A6FF&center=true&vCenter=true&width=600&lines=Creative+Technologist;Bridging+Code+%2B+Design+%2B+Sound;Systems+Programming+Explorer" />
+  Du concept au produit logiciel
 </p>
 
 ---
 
-## About Me
+## À propos
 
-Creative technologist evolving into systems programming.
+Design technologist orienté conception de produits numériques.
 
-My background in design, prototyping and audio engineering shapes the way I approach code:  
-structured, iterative, and experience-driven.
+Je travaille sur la transformation d’idées en systèmes concrets : passer d’un concept à un prototype fonctionnel, puis à un produit testable et évolutif.
 
+Mon approche combine design, développement et logique produit, avec une forte orientation vers la construction et l’expérimentation.
 
-Background in:
-- 🎨 Design & Automotive Prototyping  
-- 🎧 Audio Engineering & Production  
-- 🛠 End-to-end project building  
-
-Currently focused on low-level programming and computer science fundamentals at **Holberton School**.
-
-I approach code the same way I approach design and music:  
-structure, precision, iteration, and systems thinking.
+Actuellement en formation en **programmation système et fondamentaux de l’informatique à Holberton School**.
 
 ---
 
-## Current Focus
+## Focus actuel
 
-- C programming
-- Algorithms & Data Structures
-- Memory management
-- Git & collaborative workflow
-- Linux environment mastery
+- Développement fullstack  
+- Systèmes d’IA agentiques  
+- Prototypage rapide d’applications  
+- UX/UI et design fonctionnel  
+- Intégration et itération produit  
 
 ---
 
-## Tech & Creative Stack
+## Parcours
 
-### 💻 Programming & Systems
+- 🎨 Approche design et pensée produit appliquée à la création  
+- 🧪 Expérimentation et prototypage de systèmes physiques et numériques  
+- 💻 Transition vers le développement logiciel  
+- 🤖 Exploration du fullstack et des systèmes d’IA agentiques  
+
+---
+
+## Tech stack
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### 🎨 Design & Visual
+![CSS3 badge](https://img.shields.io/badge/CSS3-1572b6?logo=css&logoColor=white&style=for-the-badge)
+![HTML5 badge](https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white&style=for-the-badge)
+![Markdown badge](https://img.shields.io/badge/MARKDOWN-000000?logo=markdown&logoColor=white&style=for-the-badge)
+![Python badge](https://img.shields.io/badge/PYTHON-3776ab?logo=python&logoColor=white&style=for-the-badge)
+![Docker badge](https://img.shields.io/badge/DOCKER-2496ed?logo=docker&logoColor=white&style=for-the-badge)
+![GitHub badge](https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=white&style=for-the-badge)
 ![Adobe](https://img.shields.io/badge/Adobe_Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-1B72BE?style=for-the-badge&logo=affinity-designer&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
-
-### 🎧 Audio & Production
 ![Ableton](https://img.shields.io/badge/Ableton-000000?style=for-the-badge&logo=abletonlive&logoColor=white)
 ![Reaper](https://img.shields.io/badge/Reaper-3A3A3A?style=for-the-badge)
 ![Cubase](https://img.shields.io/badge/Cubase-1A1A1A?style=for-the-badge)
 
 ---
 
-## GitHub Activity
+## Philosophie
 
-<p align="center">
-  <img src="https://github-readme-stats.zcy.dev/api?username=Rwanbt&show_icons=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-</p>
-
----
-
-## What Makes Me Different
-
-- Hybrid creative + technical background  
-- Strong visual & structural thinking  
-- Experience building physical and digital projects  
-- Comfortable moving from concept → prototype → execution  
-
----
-
-> “Structure enables creativity.”
-
----
-
-To merge:
-
-Code + Design + Sound + Systems  
-
-and evolve into a creative software engineer building meaningful digital tools and interactive systems.
+> Transformer des idées en prototypes concrets, puis en produits testables.
 
 ---
 
 ## Contact
 
 📍 France  
-📧 barat.erwan@gmail.com  
+📧 barat.erwan@gmail.com
+
+---
+
+## GitHub Activity 
+<p align="center"> 
+  <img src="https://github-readme-stats.zcy.dev/api?username=Rwanbt&show_icons=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" /> 
+</p>
