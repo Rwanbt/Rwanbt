@@ -4,7 +4,7 @@ Design technologist orienté conception de produits numériques.
 
 Je travaille sur la transformation d’idées en systèmes concrets : passer d’un concept à un prototype fonctionnel, puis à un produit testable et évolutif. Mon approche combine design, développement et logique produit, avec une forte orientation vers la construction et l’expérimentation.
 
-Actuellement en formation en **programmation système et fondamentaux de l’informatique à Holberton School**.
+Actuellement en formation **"IA-augmented FullStack developper" à Holberton School**.
 
 > Transformer des idées en prototypes concrets, puis en produits testables.
 
