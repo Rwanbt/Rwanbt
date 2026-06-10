@@ -1,6 +1,6 @@
-# Hello World!
+<h1 align="center">Hello World !</h1>  
 
-## À propos
+# À propos
 
 Design technologist orienté conception de produits numériques.
 
@@ -16,7 +16,7 @@ Expérimentation sur des systèmes physiques et numériques, puis transition ver
 
 ---
 
-## Tech stack
+# Tech stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -38,8 +38,8 @@ Expérimentation sur des systèmes physiques et numériques, puis transition ver
 
 ---
 
-## Statistics
-<p align="center"> 
-  <img src="https://github-readme-stats.zcy.dev/api?username=Rwanbt&show_icons=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" /> 
-  <img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=Rwanbt&layout=compact&hide_border=true&bg_color=00000000" alt="Top Languages" />
+# Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rwanbt&show_icons=true&hide_border=true&theme=transparent" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rwanbt&layout=compact&hide_border=true&theme=transparent" height="150"/>
 </p>
