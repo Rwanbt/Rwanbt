@@ -1,4 +1,4 @@
-# Hello World  - About Me
+# Hello World - About Me
 
 Design technologist orienté conception de produits numériques.
 
