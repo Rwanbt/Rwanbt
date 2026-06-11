@@ -1,13 +1,14 @@
 # About Me
 
-J’aide à transformer des idées en systèmes concrets à l’intersection du design, du développement et de l’IA.
-Je m’intéresse à la construction de logiciels : du prototype fonctionnel à des applications testables et évolutives.
+J’aide à transformer des idées en applications à l’intersection du design, du développement et de l’IA.
 
-> Mon approche combine design, développement et construction de logiciels, avec une forte orientation vers l’expérimentation et l’itération.
+> Je travaille sur des logiciels allant du prototype fonctionnel à des applications testables et évolutives.
+
+Mon approche repose sur la construction, l’expérimentation et l’itération.
 
 Actuellement en formation **“IA-augmented FullStack Developer” à Holberton School**.
 
-Développement fullstack et systèmes d’IA agentique, avec un focus sur l’UX fonctionnelle, le prototypage rapide et les architectures simples et robustes.
+Développement fullstack et systèmes d’IA agentique, avec un focus sur l’UX fonctionnelle, le prototypage rapide et des architectures simples et robustes.
 
 # Tech stack
 
