@@ -2,9 +2,9 @@
 
 J’aide à transformer des idées en applications à l’intersection du design, du développement et de l’IA.
 
-> Je travaille sur des logiciels allant du prototype fonctionnel à des applications testables et évolutives.
+Je travaille sur des logiciels allant du prototype fonctionnel à des applications testables et évolutives.
 
-Mon approche repose sur la construction, l’expérimentation et l’itération.
+> Mon approche repose sur la construction, l’expérimentation et l’itération.
 
 Actuellement en formation **“IA-augmented FullStack Developer” à Holberton School**.
 
