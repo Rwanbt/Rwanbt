@@ -1,17 +1,13 @@
 # About Me
 
-Design technologist orienté conception de produits numériques.
+J’aide à transformer des idées en systèmes concrets à l’intersection du design, du développement et de l’IA.
+Je m’intéresse à la construction de logiciels : du prototype fonctionnel à des applications testables et évolutives.
 
-Je travaille sur la transformation d’idées en systèmes concrets : passer d’un concept à un prototype fonctionnel, puis à un produit testable et évolutif. Mon approche combine design, développement et logique produit, avec une forte orientation vers la construction et l’expérimentation.
+> Mon approche combine design, développement et construction de logiciels, avec une forte orientation vers l’expérimentation et l’itération.
 
-Actuellement en formation **"IA-augmented FullStack developper" à Holberton School**.
+Actuellement en formation **“IA-augmented FullStack Developer” à Holberton School**.
 
-> Transformer des idées en prototypes concrets, puis en produits testables.
-
-Développement fullstack orienté produit, avec une approche centrée sur l’UX/UI fonctionnelle, le prototypage rapide d’applications et l’itération continue.
-Parcours construit autour du design et de la pensée produit, appliqués à la création et à la transformation d’idées en systèmes concrets.
-Expérimentation sur des systèmes physiques et numériques, puis transition vers le développement logiciel et l’exploration des systèmes d’IA agentiques.
-
+Développement fullstack et systèmes d’IA agentique, avec un focus sur l’UX fonctionnelle, le prototypage rapide et les architectures simples et robustes.
 
 # Tech stack
 
