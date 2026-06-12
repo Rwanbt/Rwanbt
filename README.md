@@ -1,4 +1,6 @@
-# About Me
+# About Me  
+
+Français · [English](README.en.md)
 
 J’aide à transformer des idées en applications à l’intersection du design, du développement et de l’IA.
 
