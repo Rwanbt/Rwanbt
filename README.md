@@ -1,7 +1,5 @@
 # About Me  
 
-Français · [English](README.en.md)
-
 J’aide à transformer des idées en applications à l’intersection du design, du développement et de l’IA.
 
 Je travaille sur des logiciels allant du prototype fonctionnel à des applications testables et évolutives.
